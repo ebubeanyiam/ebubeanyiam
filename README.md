@@ -21,7 +21,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "Postgres"],
       mobile: ["ReactNative", "IOS"],
-      hosting_and_deployment: ["Heroku", "AWS", "Firebase", "Netlify", "Vercel", "Github"]
+      hosting_and_deployment: ["Heroku", "AWS", "Firebase", "Netlify", "Vercel", "Github"],
       misc: ["Bash", "Linux"]
    },
    currentOccupation: ["Working for C80 Limited"],
