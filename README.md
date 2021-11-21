@@ -28,12 +28,13 @@ const aboutMe = {
 };
 ```
 
-#### Connect with me:
-
-[<img align="left" alt="ebubeanyiam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ebubeanyiam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ebubeanyiam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ebubeanyiam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+````bash
+> help --contact
+> linkedin: anyiamebube
+> instagram: anyiamebube_
+> github: ebubeanyiam
+> mailto: dbupanyiam@gmail.com
+````
 
 <br />
 
@@ -94,6 +95,13 @@ const aboutMe = {
 <!--END_SECTION:activity-->
 
 </details>
+
+#### Connect with me:
+
+[<img align="left" alt="ebubeanyiam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ebubeanyiam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ebubeanyiam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ebubeanyiam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://ebubeanyiam.github.io
 [twitter]: https://twitter.com/anyiamebube
