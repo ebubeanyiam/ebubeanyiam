@@ -6,6 +6,28 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn web3
 - ⚡ Fun fact: I love to write and play games
 
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, PHP, Python],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Vue"],
+         css: ["Tailwind", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express", "Adonisjs"],
+         PHP: ["Laravel"],
+      },
+      databases: ["MongoDB", "mySQL", "Postgres"],
+      mobile: ["ReactNative", "IOS"],
+      hosting_and_deployment: ["Heroku", "AWS", "Firebase", "Netlify", "Vercel", "Github"]
+      misc: ["Bash", "Linux"]
+   },
+   currentOccupation: ["Working for C80 Limited"],
+};
+```
+
 #### Connect with me:
 
 [<img align="left" alt="ebubeanyiam.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
