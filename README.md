@@ -26,7 +26,7 @@ const aboutMe = {
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
       misc: ["Bash", "Linux"]
    },
-   currentOccupation: ["Working for C80 Limited"],
+   currentOccupation: ["Software Engineer for C80 Limited"],
 };
 ```
 
