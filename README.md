@@ -82,8 +82,11 @@ const aboutMe = {
 
 ---
 
-<img align="left" alt="Ebube's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebubeanyiam&show_icons=true" /> &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubeanyiam&layout=compact)](https://github.com/ebubeanyiam/github-readme-stats) 
+
+<br />
+
+<img align="left" alt="Ebube's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebubeanyiam&show_icons=true" /> &nbsp;
 
 <br />
 
