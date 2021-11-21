@@ -86,7 +86,7 @@ const aboutMe = {
 
 <br />
 
-<img align="left" alt="Ebube's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebubeanyiam&show_icons=true" /> &nbsp;
+<img alt="Ebube's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebubeanyiam&show_icons=true" /> &nbsp;
 
 <br />
 
