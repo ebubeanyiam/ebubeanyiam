@@ -52,7 +52,7 @@
 ---
 
 <img align="left" alt="Ebube's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebubeanyiam&show_icons=true" /> &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubeanyiam)](https://github.com/anuraghazra/github-readme-stats) 
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
