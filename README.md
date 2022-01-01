@@ -3,7 +3,7 @@
 #### I'm a Javascript enthusiast
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn web3
+- 🥅 2022 Goals: Contribute more to Open Source projects, learning web3.0, data visualization and mobile dev
 - ⚡ Fun fact: I love to write and play games
 
 ```javascript
