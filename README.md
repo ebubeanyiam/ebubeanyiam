@@ -24,7 +24,7 @@ const aboutMe = {
       hosting_and_deployment: ["Heroku", "S3", "Firebase", "Netlify", "Vercel", "Github"],
       devOps: ["AWS", "Docker🐳", "Kubernites"],
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
-      misc: ["Bash", "Linux"]
+      misc: ["Bash", "Linux", "Cloudinary"]
    },
    currentOccupation: ["Software Engineer for C80 Limited"],
 };
