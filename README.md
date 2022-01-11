@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects, learn web3.0, data visualization and Golang
-- ⚡ Fun fact: I love to write and play games
+- ⚡ Fun fact: I love to and play games and watch football
 
 ```javascript
 const aboutMe = {
