@@ -19,7 +19,7 @@ const aboutMe = {
          js: ["Node", "Express", "Adonisjs"],
          PHP: ["Laravel"],
       },
-      databases: ["MongoDB", "mySQL", "Postgres"],
+      databases: ["MongoDB", "MySQL", "Postgres"],
       mobile: ["ReactNative", "IOS"],
       hosting_and_deployment: ["Heroku", "S3", "Firebase", "Netlify", "Vercel", "Github"],
       devOps: ["AWS", "Docker🐳", "Kubernites"],
