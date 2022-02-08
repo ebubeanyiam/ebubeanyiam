@@ -17,7 +17,6 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express", "Adonisjs"],
-         PHP: ["Laravel"],
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
       mobile: ["ReactNative", "IOS"],
