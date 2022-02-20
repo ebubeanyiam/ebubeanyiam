@@ -16,7 +16,7 @@ const aboutMe = {
          css: ["Tailwind", "Scss" "Bootstrap", "Material Design", "Chakra"]
       },
       backEnd: {
-         js: ["Node", "Express", "Adonisjs"],
+         js: ["Node", "Graphql", "Express", "Adonisjs"],
       },
       databases: ["MongoDB", "MySQL", "Postgres"],
       mobile: ["ReactNative", "IOS"],
