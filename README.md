@@ -18,7 +18,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Graphql", "Express", "Adonisjs"],
       },
-      databases: ["MongoDB", "MySQL", "Postgres"],
+      databases: ["MongoDB", "MySQL", "Postgres", "Redis"],
       mobile: ["ReactNative", "IOS"],
       hosting_and_deployment: ["Heroku", "S3", "Firebase", "Netlify", "Vercel", "Github"],
       devOps: ["AWS", "Docker🐳", "Kubernites"],
