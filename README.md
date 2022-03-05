@@ -21,7 +21,7 @@ const aboutMe = {
       databases: ["MongoDB", "MySQL", "Postgres", "Redis"],
       mobile: ["ReactNative", "IOS"],
       hosting_and_deployment: ["Heroku", "S3", "Firebase", "Netlify", "Vercel", "Github"],
-      devOps: ["AWS", "Docker🐳", "Kubernetes"],
+      devOps: ["AWS", "Docker🐳", "Kubernetes", "GCP"],
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
       misc: ["Bash", "Linux", "Cloudinary", "Twilio"]
    },
